@@ -1,0 +1,20 @@
+------------------------------------------------------------------
+Lo primero es traer el repositorio a tu PC o notebook
+la ruta es
+git clone https://github.com/jordanaguileralabra/trabajo.git
+esto primero abriendo con CMD en la carpeta
+
+------------------------------------------------------------------
+Primero hay que dirigirse a la carpeta sql, en donde tenemos el script
+para poder ejecutar en MySQL.
+1- debe ejecutar crear base de datos
+2- crear tablas
+3- insertar datos
+
+------------------------------------------------------------------
+Luego es importante que si tiene XAMPP o WAMPSERVER, lo guarde en el directorio correspondiente, en este caso 
+debe ser en la carpeta www
+
+-------------------------------------------------------------------
+Ingresar a la URL localhost/TRABAJO -> esto le abrira el formulario de votacion.
+
